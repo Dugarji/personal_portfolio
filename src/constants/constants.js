@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/THREADS_SCREENSHOT.png',
       tags: ['Mongo', 'Next', 'Node'],
     source: 'https://google.com',
-    visit: 'https://threads-pdgkxm5i8-dugarji.vercel.app/',
+    visit: 'http://threads-p7dism4ed-dugarji.vercel.app',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/T-SHIRT_MODEL.png',
     tags: ['React', 'JavaScript','ThreeJs'],
     source: 'https://google.com',
-    visit: '   https://736e-110-225-11-240.ngrok-free.app',
+    visit: ' https://22b6-110-225-22-119.ngrok-free.app',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/ANIME_SCREENSHOT.png',
       tags: ['html', 'css', 'javascript', 'gsap','locomotive'],
     source: 'https://google.com',
-    visit: '  https://3239-110-225-11-240.ngrok-free.app',
+    visit: '  https://d896-110-225-22-119.ngrok-free.app',
     id: 2,
   },
 
