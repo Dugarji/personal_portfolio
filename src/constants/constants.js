@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/T-SHIRT_MODEL.png',
     tags: ['React', 'JavaScript','ThreeJs'],
     source: 'https://google.com',
-    visit: ' https://22b6-110-225-22-119.ngrok-free.app',
+    visit: ' https://a291-110-225-22-119.ngrok-free.app',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/ANIME_SCREENSHOT.png',
       tags: ['html', 'css', 'javascript', 'gsap','locomotive'],
     source: 'https://google.com',
-    visit: '  https://d896-110-225-22-119.ngrok-free.app',
+    visit: ' https://7341-110-225-22-119.ngrok-free.app',
     id: 2,
   },
 
